@@ -1,6 +1,5 @@
 def roll_call_dwarves(array) # code an argument here
   # Your code here
-  # a=[11,22,31,224,44].each_with_index { |val,index| puts "index: #{index} for #{val}" if val < 30}
   puts array.each_with_index { |item, index| puts index item }
 end
 
