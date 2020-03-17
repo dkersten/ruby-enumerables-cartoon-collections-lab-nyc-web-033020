@@ -12,7 +12,7 @@ def summon_captain_planet(array)
   array.collect { |item| item.capitalize + "!"}
 end
 
-def long_planeteer_calls()
+def long_planeteer_calls(array)
   # Your code here
   
   
