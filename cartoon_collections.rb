@@ -18,7 +18,7 @@ def long_planeteer_calls(array)
   # if any value is longer than 4 characters return true
   # else return false
   
-  if array.find
+  array.any? { |index| index.length > 4 }
 end
 
 def find_the_cheese()
