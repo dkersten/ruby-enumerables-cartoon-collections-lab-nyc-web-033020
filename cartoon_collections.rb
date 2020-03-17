@@ -8,7 +8,7 @@ end
 
 def summon_captain_planet(array)
   # Your code here
-  
+  array.map
   array.collect { |x| x + "!" }
 end
 
