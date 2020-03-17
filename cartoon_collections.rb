@@ -9,7 +9,7 @@ end
 def summon_captain_planet(array)
   # Your code here
   
-  
+  array.collect()
 end
 
 def long_planeteer_calls()
