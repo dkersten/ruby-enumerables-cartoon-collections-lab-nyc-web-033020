@@ -15,7 +15,8 @@ end
 def long_planeteer_calls(array)
   # Your code here
   
-  
+  # if any value is longer than 4 characters return true
+  # else return false
 end
 
 def find_the_cheese()
